@@ -1,0 +1,8 @@
+{
+  "name": "Titan Notebook: Engine of Discovery",
+  "description": "A high-performance computational notebook environment with AI assistance, workflow orchestration, and distributed compute monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
